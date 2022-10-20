@@ -1,0 +1,96 @@
+.btn:hover {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	
+	padding-left:12px;
+	padding-right:12px;
+	font-size: 110%;
+	background-image: linear-gradient(black, white, red);
+	border-color: black;
+	border-radius: 10px;
+	color: white;
+	}
+.btn_1:hover {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	
+	padding-left:12px;
+	padding-right:12px;
+	font-size: 110%;
+	background-image: linear-gradient(black, red);
+	border-radius: 10px;
+	color: white;
+	}
+.btn_2:hover {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	
+	padding-left:12px;
+	padding-right:12px;
+	font-size: 110%;
+	background-image: linear-gradient(blue, yellow, red);
+	border-radius: 10px;
+	color: white;
+	}
+.btn_3:hover {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	
+	padding-left:12px;
+	padding-right:12px;
+	font-size: 110%;
+	background-image: linear-gradient(red, yellow, red);
+	border-color: red;
+	border-radius: 10px;
+	color: white;
+	}
+.btn_4:hover {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	
+	padding-left:12px;
+	padding-right:12px;
+	font-size: 110%;
+	background-image: linear-gradient(green, #FFA500);border-radius: 10px;
+	color: black;
+	}
+.btn_5:hover {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	
+	padding-left:12px;
+	padding-right:12px;
+	font-size: 110%;
+	background-image: linear-gradient(blue, red);
+	border-radius: 10px;
+	color: black;
+	}
+div {
+	margin-top: 10px;
+}
+
+.btn_6 {
+	padding: 10px 20px;
+	border-radius: 10px;
+	font-size: 110%;
+	background-color: #0000ff;
+	border-width: 1px;
+    color: white;
+}
+.btn_7 {
+	padding: 10px 20px;
+	border-radius: 10px;
+	font-size: 110%;
+	background-color: gray;
+	border-width: 1px;
+	color: white;
+}
+.btn_8 {
+	padding: 10px 20px;
+	border-radius: 10px;
+	font-size: 110%;
+	background-color: #ff0000;
+	border-width: 1px;
+	color: white;
+	button-shadow: 5px 10px;
+}
